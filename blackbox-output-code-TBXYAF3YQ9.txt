@@ -1,0 +1,3 @@
+1. Google AdSense account banayein: https://adsense.google.com
+2. Website approve karwayein
+3. `YOUR_ADSENSE_ID` aur `SLOT_ID` replace karein
